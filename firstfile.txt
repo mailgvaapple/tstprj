@@ -1,0 +1,4 @@
+1 raz
+2 dva
+3 tri
+5 pyat
