@@ -1,4 +1,5 @@
 1 raz
 2 dva
 3 tri
+4 chetire
 5 pyat
